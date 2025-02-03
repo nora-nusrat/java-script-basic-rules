@@ -81,5 +81,46 @@ for (let i = 1; i <= 10; i++){
     
 }
 //loop rules
+//short form of if and else
+//{condition?true:false}-is the short form for if and else condition using
+//arrey rules
+//const name = ["Nora","Faria","Nusrat","Johatsu"]//countdown starts from 0 and goes to how much there is and end with adding 1 to it
+//console.log(name[3]);//and if we want to see length we would put it like console.log(name.length);
+//arrey rules
+//push in arrey rules
+//const name = ["Johan", "Abrar", "Priontee", "Saiara"]
+//let add = name.push("Abdullah")
+
+//console.log(name);
+
+
+//push in arrey rules
+//pop in arrey rules
+const name = ["Johan", "Abrar", "Priontee", "Saiara"]
+let add = name.pop("johan")
+console.log(name)
+//pop in arrey rules
+
+//=======
+//function nora(){
+   /// console.log("my name is Nora");
+    
+//}
+//nora()
+//=========
+let teams = {
+    name : "Faruk Hossain",
+    age : 30,
+    area : "Dhaka",
+}
+console.log(teams);
+
+//======
+
+
+
+
+
+
 
 
